@@ -9,5 +9,5 @@
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
 
 ![alt text](https://github.com/Ras-hi/Data-Science-Project1/blob/main/datascience_salary_proj/salary_by_job_title.PNG "Salary by Position")
-![alt text](https://github.com/Ras-hi/Data-Science-Project1/blob/main/datascience_salary_proj/positions_by_state.png"Job Opportunities by State")
+
 ![alt text](https://github.com/Ras-hi/Data-Science-Project1/blob/main/datascience_salary_proj/correlation_visual.png "Correlations")
